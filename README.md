@@ -1,0 +1,1 @@
+## A very simple CRUD app using Angular, ASP.NET Core (C#) API querying an SQL database hosted locally using Docker
