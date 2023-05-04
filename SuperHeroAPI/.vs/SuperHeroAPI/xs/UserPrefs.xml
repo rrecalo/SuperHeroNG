@@ -1,0 +1,33 @@
+﻿<Properties NuGet.AddPackagesDialog.IncludePrerelease="True" StartupConfiguration="{A3A7DC93-5EF0-43FD-8DF4-0D9312AD14F9}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SuperHeroAPI/Data/DataContext.cs">
+    <Files>
+      <File FileName="SuperHeroAPI/Controllers/SuperHeroController.cs" />
+      <File FileName="SuperHeroAPI/Data/DataContext.cs" Line="14" Column="1" />
+      <File FileName="SuperHeroAPI/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SuperHeroAPI" expanded="True">
+            <Node name="SuperHeroAPI" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True">
+                <Node name="DataContext.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.SuperHeroAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
